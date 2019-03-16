@@ -3,19 +3,14 @@ layout: blocks
 title: Homepage
 date: 2017-11-22 23:00:00 +0000
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  logo: "/uploads/2019/03/16/logo-01.png"
+- template: navigation-header
+  block: header-1
+  logo: "/uploads/2019/03/16/logo.png"
   navigation:
-  - link: "/"
+  - link_text: Team
+  - link_text: About
+  - link: "/projects"
     link_text: Projects
-  - link: "#"
-    link_text: About
-  - link: "#"
-    link_text: Team
-  cta:
-    url: ''
-    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
