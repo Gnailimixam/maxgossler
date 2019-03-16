@@ -12,12 +12,10 @@ page_sections:
   - link: "#"
     link_text: About
   - link: "#"
-    link_text: Pricing
-  - link: "#"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: ''
+    button_text: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
