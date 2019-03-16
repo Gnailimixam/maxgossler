@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2019/03/16/logo-01.png"
   navigation:
   - link: "/"
-    link_text: Home
+    link_text: Projects
   - link: "#"
     link_text: Features
   - link: "#"
