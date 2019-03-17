@@ -50,5 +50,6 @@ fields:
   hidden: true
 - type: text
 pages:
+- projects/project0.md
 - about.md
 - about.md
