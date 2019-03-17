@@ -70,6 +70,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: This site is proutly hosted by github
+undefined: "#F5F5F5"
+text: ''
 
 ---
 foo bar
