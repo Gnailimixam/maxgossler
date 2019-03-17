@@ -21,4 +21,4 @@ fields:
     name: link_text
     label: Link text
   config:
-    labelField: link_text
+    labelField: link
