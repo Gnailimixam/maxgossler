@@ -7,10 +7,11 @@ page_sections:
   block: header-1
   logo: "/uploads/2019/03/16/logo2-01_2.png"
   navigation:
-  - link_text: Team
-  - link_text: About
   - link: "/projects"
     link_text: Projects
+  - link_text: Team
+    link: "/team"
+  - link_text: About
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
