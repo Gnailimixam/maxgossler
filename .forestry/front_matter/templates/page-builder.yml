@@ -10,6 +10,14 @@ fields:
   label: Layout
   hidden: true
   default: blocks
+- type: color
+  config:
+    color_format: Hex
+- type: text
+  name: text
+  label: text
+  config:
+    required: false
 - type: datetime
   name: date
   label: Date
