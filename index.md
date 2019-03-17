@@ -5,7 +5,7 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2019/03/16/logo.png"
+  logo: "/uploads/2019/03/16/logo2-01_2.png"
   navigation:
   - link_text: Team
   - link_text: About
