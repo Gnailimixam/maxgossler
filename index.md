@@ -7,7 +7,7 @@ page_sections:
   block: header-1
   logo: "/uploads/2019/03/16/logo-01.png"
   navigation:
-  - link: "/projects"
+  - link: maxgossler/projects
     link_text: Projects
   - link_text: Team
     link: "/team"
