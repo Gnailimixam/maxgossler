@@ -1,7 +1,6 @@
 ---
 label: content-feature
 hide_body: true
-display_field: block
 fields:
 - type: text
   hidden: true
