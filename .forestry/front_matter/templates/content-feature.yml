@@ -1,6 +1,7 @@
 ---
 label: content-feature
 hide_body: false
+display_field: headline
 fields:
 - type: text
   hidden: true
@@ -14,6 +15,7 @@ fields:
     wysiwyg: true
     schema:
       format: html
+  default: about
 - type: textarea
   name: content
   label: Content
@@ -21,6 +23,7 @@ fields:
     wysiwyg: true
     schema:
       format: html
+  default: fjokrewnvkofnsvngroenoi
 - type: field_group
   name: media
   label: Featured Media
@@ -41,5 +44,11 @@ fields:
     - Right
   label: Media Alignment
   default: Right
+- type: text
+  name: bio
+  label: bio
+  description: bio
+  hidden: true
+- type: text
 pages:
 - about.md
