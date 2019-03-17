@@ -1,7 +1,6 @@
 ---
 label: content-feature
-hide_body: false
-display_field: headline
+hide_body: true
 fields:
 - type: text
   hidden: true
