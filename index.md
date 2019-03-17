@@ -23,9 +23,13 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2018/06/21/drone-photo.jpeg"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/product-shot-1.png"
+  background_image: "/uploads/2018/06/21/drone-photo.jpeg"
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/06/21/theme.png"
+  caption: All Available Blocks
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -52,10 +56,6 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
@@ -70,11 +70,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: This site is proutly hosted by github
-menu:
-  main:
-    identifier: home
-    weight: 1
-    title: Home
 
 ---
 foo bar
