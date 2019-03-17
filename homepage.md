@@ -70,7 +70,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: This site is proutly hosted by github
-published: false
 
 ---
 foo bar
