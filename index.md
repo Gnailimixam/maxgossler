@@ -25,7 +25,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/drone-photo.jpeg"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/drone-photo.jpeg"
+  background_image: ''
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
