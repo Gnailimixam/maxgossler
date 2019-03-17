@@ -12,6 +12,7 @@ page_sections:
   - link_text: Team
     link: "/team"
   - link_text: About
+    link: "/about"
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
@@ -69,6 +70,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: This site is proutly hosted by github
+published: false
 
 ---
 foo bar
