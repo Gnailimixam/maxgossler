@@ -8,6 +8,5 @@ media:
   image: "/uploads/2019/03/17/prof_pic.jpg"
   alt_text: ''
 date: 2019-03-17 09:11:24 +0000
-published: false
 
 ---
