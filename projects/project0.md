@@ -9,6 +9,5 @@ media:
 bio: ''
 undefined: ''
 date: 2019-03-17 17:39:35 +0000
-published: false
 
 ---
